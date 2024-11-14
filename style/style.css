@@ -1,0 +1,8 @@
+.navbar{
+    background-color: green;
+}
+.navbar-nav .nav-link{
+    font-size: 1.3rem;
+    color: white !important;
+    font-weight: bold;
+}
